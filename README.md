@@ -1,2 +1,6 @@
 # Pirate-Intelligent-Agent-
-Reinforced Leaning Jupyter
+Reinforced Learning Jupyter
+
+This code covers reinforced learning for an artificial neural network using Jupyter and Keras. The Treasure hunt game consisted of a pirate agent that is allowed to move to sqaure at time around a preset maze until the end is reached rewarding the agent with a point. The imports, maze design, maze functions, agent directions, and win conditions were all predetermined and coded in. My primaty focus was to complete the Q-Training Algorithm that aid the agent in find the best possible navigation to the end point. 
+
+Computer Scientists solves complex problems revolving around technology and advances capabilites of computer and technology. As a computer scientist, I approach a problem by examing the materials available with the problem. I examine each code block understanding what it does before moving on. Once I understand the problem, I identify a solution to the problem. In this project, it was developing the Q-Training algorithm section for a treasure hunt game. Once the code was created for the section, I tested the code and revised any code that had bugs that came with it. Once all the bugs were worked out, the project was submitted. My ethical responsibilities to the end user and organization is to ensure that the program is bug free and secure. Delivering a working program with low to no security risk is ideal. 
